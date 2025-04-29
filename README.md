@@ -2,10 +2,7 @@
 - 👀 I’m interested in Data Science & Machine Learning
 - 🛠️ Tools: Python, Flask, Git
 
-![GitHub followers](https://img.shields.io/github/followers/muzammil-55?label=Followers&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/muzammil-55?label=Followers&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/muzammil-55?label=Followers&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/muzammil-55?label=Followers&style=plastic)
 
 
 
