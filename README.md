@@ -6,22 +6,23 @@
 
 **Skills**
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" style="text-decoration: none; display: inline-block;">
+  <a href="https://www.python.org/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  </a>
-  <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none; display: inline-block;">
+  </a>&nbsp;
+  <a href="https://www.java.com/en/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none; display: inline-block;">
+  </a>&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none; display: inline-block;">
+  </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none; display: inline-block;">
+  </a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
   </a>
 </p>
+
 
 
 
