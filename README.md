@@ -42,17 +42,13 @@
 
 ### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=muzammil-55&show_icons=true&theme=radical" alt="Muzammil's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-55&theme=radical" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-55&show_icons=true&theme=radical" alt="Muzammil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-55&theme=radical" alt="GitHub Streak" width="48%" />
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-55&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</div>
