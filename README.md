@@ -2,7 +2,8 @@
 - 👀 I’m interested in Data Science & Machine Learning
 - 🛠️ Tools: Python, Flask, Git
 
-![GitHub Repo stars](https://img.shields.io/github/stars/muzammil-55/your-repo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/muzammil-55/your-repo?style=social)
+
 
 
 ### 🧠 Projects:
