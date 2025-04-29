@@ -55,3 +55,7 @@
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=muzammil-55&label=Profile%20views&color=0e75b6&style=flat)
+### 👀 Profile Views
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=$.views&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmuzammil-55%2Fmuzammil-55%2Ftraffic%2Fviews)
+
