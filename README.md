@@ -37,7 +37,7 @@
 - 🔐 Fraud Prediction System
 - 📱 QR Code Generator
 
-- ### 🚀 Highlighted Projects
+### 🚀 Highlighted Projects
 
 🧠 **Fake News Detection using Machine Learning**  
 Detects misleading or fake news using Natural Language Processing and ML classification models.  
