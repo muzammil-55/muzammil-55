@@ -47,3 +47,19 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-55&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </div>
+
+
+### 🚀 Top Repositories
+
+<div align="left">
+  <a href="https://github.com/muzammil-55/Fake-News-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muzammil-55&repo=Fake-News-Detection&theme=radical" width="45%" />
+  </a>
+  <a href="https://github.com/muzammil-55/Fraud-Prediction-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muzammil-55&repo=Fraud-Prediction-System&theme=radical" width="45%" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/muzammil-55/QR-Code-Generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=muzammil-55&repo=QR-Code-Generator&theme=radical" width="45%" />
+  </a>
+</div>
