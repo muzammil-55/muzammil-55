@@ -42,11 +42,9 @@
 
 ### 📫 Contact Me:
 - ✉️ Email: muzammil092000@gmail.com
-
-
 # ***Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Muzammil Khan***
 - 👀 I’m interested in Data Science & Machine Learning
-- 🛠️ Tools: Python, Flask, Git
+- 🛠️ Tools: Python, Flask, Git, HTML, Java, C
 
 ![GitHub followers](https://img.shields.io/github/followers/muzammil-55?label=Followers&style=for-the-badge)
 
@@ -69,6 +67,19 @@
   </a>
 </p>
 
+### **Advanced Skills**
+<p align="left">
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="36" height="36" alt="Scikit-Learn" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36" height="36" alt="Flask" />
+  </a>
+</p>
+
 ### Socials
 <p align="left">
   <a href="https://www.linkedin.com/in/muzammil55" target="_blank">
@@ -83,4 +94,5 @@
 - 🔍 Fake News Detection using ML
 - 🔐 Fraud Prediction System
 - 📱 QR Code Generator
-
+- 📊 Data Analysis Dashboard
+- 🤖 AI Chatbot for Customer Service
