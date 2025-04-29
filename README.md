@@ -32,8 +32,6 @@
   </a>&nbsp;
 </p>
 
-
-
 ### 🧠 Projects:
 - 🔍 Fake News Detection using ML
 - 🔐 Fraud Prediction System
@@ -41,3 +39,18 @@
 
 ### 📫 Contact Me:
 - ✉️ Email: muzammil092000@gmail.com
+
+- ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-55&show_icons=true&theme=radical" alt="Muzammil's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-55&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-55&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
