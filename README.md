@@ -1,9 +1,6 @@
 # ***Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Muzammil Khan***
 - 👀 I’m interested in Data Science & Machine Learning
-- - 🛠️ Tools: Python, Flask, Git, HTML/CSS/JS
-- 📫 How to reach me .......
-- 😄 Pronouns: He/Him
-# 👋 Hi, I'm Your Name!
+- 🛠️ Tools: Python, Flask, Git
 
 
 ### 🧠 Projects:
