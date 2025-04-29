@@ -58,4 +58,7 @@
 ### 👀 Profile Views
 
 ![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=$.views&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmuzammil-55%2Fmuzammil-55%2Ftraffic%2Fviews)
+### 👀 Profile Views
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=$.views&url=https%3A%2F%2Fapi.github.com%2Frepos%2Fmuzammil-55%2Fmuzammil-55%2Ftraffic%2Fviews&style=flat-square)
 
