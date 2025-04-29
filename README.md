@@ -40,6 +40,22 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
 </a>
 
+<style>
+  .tech-icons a {
+    margin: 10px;
+  }
+  .tech-icons img {
+    width: 40px;
+    height: 40px;
+  }
+</style>
+
+<p align="left" class="tech-icons">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  <!-- Add other icons here -->
+</p>
 
 
 
