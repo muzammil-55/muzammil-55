@@ -2,6 +2,8 @@
 - 👀 I’m interested in Data Science & Machine Learning
 - 🛠️ Tools: Python, Flask, Git
 
+![GitHub followers](https://img.shields.io/github/followers/muzammil-55?label=Followers&style=social)
+
 
 ### 🧠 Projects:
 - 🔍 Fake News Detection using ML
