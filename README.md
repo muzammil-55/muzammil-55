@@ -1,5 +1,7 @@
 # ***Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Muzammil Khan***
-- 👀 I’m interested in Data Science, Machine Learning and Software Development 
+- 👀 I’m interested in Data Science, Machine Learning and Software Development
+- ### 📫 Contact Me:
+- ✉️ Email: muzammil092000@gmail.com
 
 ![GitHub followers](https://img.shields.io/github/followers/muzammil-55?label=Followers&style=for-the-badge)
 
@@ -37,26 +39,7 @@
 - 🔐 Fraud Prediction System
 - 📱 QR Code Generator
 
-### 🚀 Highlighted Projects
 
-🧠 **Fake News Detection using Machine Learning**  
-Detects misleading or fake news using Natural Language Processing and ML classification models.  
-> **Tech Stack:** Python, Scikit-learn, Pandas, NLP  
-🔗 [View Project](https://github.com/muzammil-55/Fake-News-Detection)
-
-🛡️ **Fraud Prediction System**  
-A fraud detection engine that analyzes transaction patterns to flag suspicious activities in real-time.  
-> **Tech Stack:** Python, NumPy, Logistic Regression  
-🔗 [View Project](https://github.com/muzammil-55/Fraud-Prediction-System)
-
-📱 **QR Code Generator**  
-A simple and effective app to create custom QR codes from text or links — perfect for sharing and printing.  
-> **Tech Stack:** Python, qrcode, PIL  
-🔗 [View Project](https://github.com/muzammil-55/QR-Code-Generator)
-
-
-### 📫 Contact Me:
-- ✉️ Email: muzammil092000@gmail.com
 
 ### 📊 GitHub Stats
 
