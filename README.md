@@ -42,13 +42,8 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-55&show_icons=true&theme=radical" alt="Muzammil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil-55&theme=radical" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-55&layout=compact&theme=radical" alt="Top Languages" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-55&show_icons=true&theme=radical" alt="Muzammil's GitHub Stats" width="50%" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-55&layout=compact&theme=radical" alt="Top Languages" width="50%" />
 </div>
