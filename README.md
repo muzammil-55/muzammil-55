@@ -1,6 +1,5 @@
 # ***Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Muzammil Khan***
-- 👀 I’m interested in Data Science & Machine Learning
-- 🛠️ Tools: Python, Flask, Git
+- 👀 I’m interested in Data Science, Machine Learning and Software Development 
 
 ![GitHub followers](https://img.shields.io/github/followers/muzammil-55?label=Followers&style=for-the-badge)
 
