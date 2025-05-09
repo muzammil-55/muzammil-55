@@ -19,11 +19,9 @@
 
 ### Socials
 <p align="left">
-  <a href="https://www.linkedin.com/in/muzammil55" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
+  <a href="https://www.linkedin.com/in/muzammil55" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>&nbsp;
-  <a href="https://github.com/muzammil-55" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <a href="https://github.com/muzammil-55" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
   </a>&nbsp;
 </p>
 
