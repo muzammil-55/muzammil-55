@@ -6,10 +6,19 @@ I’m a passionate developer who loves building cool stuff and learning new tech
 ---
 
 ## 💻 Skills
-- **Programming Languages:** Python, Java, C, JavaScript  
-- **Web Development (MERN Stack):** HTML, CSS, JavaScript, Vite, React, Tailwind CSS, Node.js  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Platforms:** VS Code, IntelliJ IDEA, Git, GitHub, Vercel, Vite
+
+### Programming Languages  
+Python | Java | C | JavaScript
+
+### Web Development (MERN Stack)  
+HTML | CSS | JavaScript | React | Node.js | Vite | Tailwind CSS
+
+### Databases  
+MySQL | MongoDB
+
+### Tools & Platforms  
+VS Code | IntelliJ IDEA | Git | GitHub | Vercel | Vite
+
 
 ---
 
