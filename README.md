@@ -1,41 +1,47 @@
-# ***Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I’m Muzammil Khan***
-- 👀 I’m interested in Data Science, AI & ML, and Software Development
-- ✉️ You can contact me at muzammil092000@gmail.com
-- Based in **Hyderabad, India** 🌍 
+Hi there 👋
+I'm Muzammil Khan, a Full-Stack MERN Developer and Machine Learning Enthusiast.
+I'm passionate about building impactful and user-friendly web applications. With a strong foundation in the MERN stack and a keen interest in machine learning, I love tackling complex problems and creating elegant solutions. I'm always looking to learn new technologies and grow as a developer.
 
+💻 What I'm Currently Working On
+Building a new project using Next.js and TypeScript.
 
-![GitHub followers](https://img.shields.io/github/followers/muzammil-55?label=Followers&style=for-the-badge)
+Learning more about data visualization with D3.js.
 
-### 💻 Skills
+Contributing to open-source projects.
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-</p>
+🛠️ My Tech Stack
+Category
 
-### Socials
-<p align="left">
-  <a href="https://www.linkedin.com/in/muzammil55" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" /></a>&nbsp;
-  <a href="https://github.com/muzammil-55" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" /></a>&nbsp;
-</p>
+Technologies & Tools
 
-### 🧠 Projects:
-- 🔍 Fake News Detection using ML
-- 🔐 Fraud Prediction System
-- 📱 QR Code Generator
+Frontend
 
 
 
-### 📊 GitHub Stats
+Backend
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-55&show_icons=true&theme=radical" alt="Muzammil's GitHub Stats" width="50%" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammil-55&layout=compact&theme=radical" alt="Top Languages" width="50%" />
+
+
+Tools
+
+
+
+📈 GitHub Stats
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&theme=default&hide_border=true&layout=compact" alt="Top Languages" />
+</a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[your-github-username]&theme=default&hide_border=true" alt="GitHub Streak" />
+</a>
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=muzammil-55&label=Profile%20views&color=0e75b6&style=flat)
+✉️ Connect with Me
+Email: muzammilkhan@example.com
+
+LinkedIn: Your LinkedIn Profile
+
+Portfolio: Your Portfolio Website
