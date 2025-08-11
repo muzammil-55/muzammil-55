@@ -24,7 +24,7 @@ VS Code | IntelliJ IDEA | Git | GitHub | Vercel | Vite
 
 ## 📫 How to reach me
 - Email: muzammil092000@gmail.com  
-- LinkedIn: [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/muzammil55)]
+- LinkedIn: https://www.linkedin.com/in/muzammil55
 
 ---
 
