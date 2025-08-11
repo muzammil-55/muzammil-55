@@ -1,15 +1,18 @@
-Hi there 👋
-I'm Muzammil Khan, a Full-Stack MERN Developer and Machine Learning Enthusiast.
-I'm passionate about building impactful and user-friendly web applications. With a strong foundation in the MERN stack and a keen interest in machine learning, I love tackling complex problems and creating elegant solutions. I'm always looking to learn new technologies and grow as a developer.
+<h1 align="center">Hi there 👋, I'm Muzammil Khan!</h1>
+<h3 align="center">A Passionate MERN Stack Developer and Machine Learning Enthusiast</h3>
 
-💻 What I'm Currently Working On
-Building a new project using Next.js and TypeScript.
+:wave: About Me
+I'm a full-stack developer with a strong focus on the MERN stack (MongoDB, Express, React, Node.js). I love bringing ideas to life through code, from the initial design to the final deployment. My journey in technology has also led me to explore the fascinating world of machine learning, where I enjoy building models and finding new ways to apply data science principles.
 
-Learning more about data visualization with D3.js.
+🔭 I’m currently working on a full-stack e-commerce platform with real-time features.
 
-Contributing to open-source projects.
+🌱 I’m always learning and building with Next.js, TypeScript, and Python.
 
-🛠️ My Tech Stack
+💬 Ask me about anything related to React, Node.js, or machine learning.
+
+⚡ Fun fact: I'm a huge fan of video games and sci-fi movies.
+
+:hammer_and_wrench: My Skills & Tech Stack
 Category
 
 Technologies & Tools
@@ -22,26 +25,53 @@ Backend
 
 
 
+Data Science
+
+
+
 Tools
 
 
 
-📈 GitHub Stats
-<div align="center">
+:rocket: Featured Projects
+Project Name
+
+Description
+
+E-Commerce Platform
+
+A full-stack MERN e-commerce site with user authentication, a shopping cart, and a checkout system.
+
+Movie Recommendation Engine
+
+A machine learning project that recommends movies based on user preferences and movie features.
+
+:bar_chart: My GitHub Stats
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DMuzammilKhan%26show_icons%3Dtrue%26theme%3Dnord%26count_private%3Dtrue" alt="GitHub Stats" />
 </a>
+<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&theme=default&hide_border=true&layout=compact" alt="Top Languages" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DMuzammilKhan%26theme%3Dnord%26layout%3Dcompact" alt="Top Languages" />
 </a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3D[your-github-username]&theme=default&hide_border=true" alt="GitHub Streak" />
+<br>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DMuzammilKhan%26theme%3Dnord" alt="GitHub Trophies" />
 </a>
-</div>
+</p>
 
-✉️ Connect with Me
-Email: muzammilkhan@example.com
+:handshake: Let's Connect
+Social
 
-LinkedIn: Your LinkedIn Profile
+Link
 
-Portfolio: Your Portfolio Website
+LinkedIn
+
+
+
+Twitter
+
+
+
+Portfolio
